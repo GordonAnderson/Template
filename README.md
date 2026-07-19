@@ -1,6 +1,6 @@
 # GAACE Application Template
 
-A PlatformIO starting-point template for building firmware modules using the **Gordon Anderson Arduino Core Extensions (GAACE)** framework. Modules built from this template communicate with the MIPS host application over both USB serial and an I2C (TWI) bus.
+A PlatformIO starter template for building firmware modules using the GAACE_Core framework. Modules developed from this template communicate with the MIPS host application over USB serial and optional TCP/IP connections.
 
 ## Target Hardware
 
